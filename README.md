@@ -12,7 +12,6 @@
 
 #### 2024
 - <a href="https://github.com/sjlim32/together" style="text-decoration: none;">Toogether</a>
-- <a href="https://github.com/sjlim32/community_jungle">Community</a>
 - <a href="https://github.com/sjlim32/pintos-kaist">pintOS</a>
 
 #### 2023
