@@ -2,7 +2,7 @@
 
 
 <div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjlim32&hide=stars,contribs&count_private=true&show_icons=true&&theme=onedark" align="middle" /> &nbsp
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sjlim32&hide=stars,contribs&count_private=true&show_icons=true&&theme=onedark" align="middle" /> &nbsp -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjlim32&layout=compact&hide=c,c%2B%2B,perl,makefile,Assembly,Shell" align="middle" /> &nbsp
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlim32" align="middle" /> -->
 </div>
@@ -29,23 +29,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div>
 <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
-</div>
-<br>
-
-<div align="center">
   <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 <br>
