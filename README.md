@@ -14,11 +14,11 @@
 - <a href="https://github.com/sjlim32/together" style="text-decoration: none;">Toogether</a>
 - <a href="https://github.com/sjlim32/pintos-kaist">pintOS</a>
 
-#### 2023
+<!-- #### 2023
 - <a href="https://github.com/sjlim32/elice_3rd_project">One-line</a>
 - <a href="https://github.com/sjlim32/elice_2nd_project">24/7</a>
 - <a href="https://github.com/sjlim32/elice_1st_project">ellegence </a>
-
+-->
 ---
 
 <h3 align="center"> 👨‍💻 Stacks </h3>
