@@ -2,7 +2,7 @@
 
 
 <div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjlim32&hide=stars&show_icons=true&theme=onedark&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN" 
+  <img src="https://github-readme-stats-lsj-pj.vercel.app/api?username=sjlim32&hide=stars&show_icons=true&theme=onedark
   align="middle" /> &nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjlim32&layout=compact&hide=c,c%2B%2B,perl,makefile,Assembly,Shell" align="middle" /> &nbsp
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlim32" align="middle" /> -->
